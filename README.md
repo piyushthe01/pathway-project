@@ -89,17 +89,4 @@ Two-stage architecture allows for:
 - **Market Regime Detection**: Identifying trend changes and market conditions
 - **Research**: Quantitative finance research and alpha discovery
 
-## Installation
 
-pip install tensorflow pandas numpy scikit-learn ta-lib
-
-text
-
-## Usage
-
-Load and preprocess data with technical indicators
-Train Random Forest for feature selection
-Extract top features
-Train CNN-Attention hybrid model
-Train GRU on selected features
-Generate predictions
